@@ -1,6 +1,6 @@
 # FormalMATH
 
->  **[Arxiv] FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**.
+>  **[EMNLP 2026 Findings] FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models**.
 [Paper Link](https://arxiv.org/abs/2505.02735)
 <p align="center"><img src="assets/performance_compare_v2.png" width="680"/></p>
 
